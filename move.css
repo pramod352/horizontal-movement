@@ -1,0 +1,16 @@
+body{
+    padding: 50px;
+    margin: 20px;
+}
+
+.container{
+    width: 800px;
+    height: 400px;
+    background-color: rgb(116, 14, 233);
+}
+
+.sub-container{
+    width: 200px;
+    height: 100px;
+    background-color:rgb(240, 198, 11);
+}
