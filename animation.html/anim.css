@@ -1,0 +1,12 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#bounce{
+    margin: 20px;
+    width: 900px;
+    height: 400px;
+    position: absolute;
+    background-color: rgb(255, 102, 0);
+}
